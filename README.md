@@ -68,7 +68,7 @@ The objective of this project is to analyze sales data and generate meaningful i
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
